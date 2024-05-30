@@ -35,8 +35,19 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/c504a3f7-7f55-43c4-b8af-d9cebcfe8304" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, a new resource group must be made where the virtual machines will be placed  in.
+  <br />
+In the top search bar search: resource group and then in top left click "create".
+  <br />
+  <br />
+Name the new resource group.
+  <br />
+Also select which subscription account to place the resource group under.
+  <br />
+And pick which geographic region you want the resource group in.
+  <br />
+  <br />
+Then create the resource group.
 </p>
 <br />
 
@@ -46,7 +57,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/31f7cd88-e7f3-41d1-ad16-082c3298cdcf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the top search bar search: virtual machines, then click "create", then "Azure Virtual Machine".
+  <br />
+  <br />
+For the 1st virtual machine: Select a subsciption account, the resource group just made, & the geographic region you want the VM in.
+  <br />
+Name this 1st VM.
+  <br />
+The above redundancy & security settings will suffice.
+  <br />
+The image (VM's operating system) will be Windows Server 2022 Datacenter.
+  <br />
+VM architecture x64 will suffice.
 </p>
 <br />
 
@@ -56,7 +78,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/7a866bf3-00e8-486d-b7a8-17874c1ea230" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select size "2 vcpus" (2 virtual CPU's).
+  <br />
+Set up administrator account info for the VM: the username & password.
+  <br />
+Public inbound ports must allow selected ports, and allow RDP 3389 (for remote desktop to the VM).
+  <br />
+Scroll down & confirm you want to use an existing windows server license.
+  <br />
+Also confirm you have the eligible Windows server license.
+  <br/ >
+  <br />
+Create the VM.
 </p>
 <br />
 
@@ -71,11 +104,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
