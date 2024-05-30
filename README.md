@@ -99,7 +99,20 @@ Create the VM.
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/28e6888c-1ded-4436-84f9-e962f3c2ebb5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You must wait ~5 minutes before making the 2nd VM (so the 2nd VM can be placed in the same network as the 1st).
+  <br />
+In the top search bar search: virtual machines, then in top left click "create", then "Azure Virtual Machine".
+  <br />
+  <br />
+For this 2nd virtual machine: the subsciption account, resource group, & the geographic region should match the 1st VM's.
+  <br />
+Name this 2nd VM.
+  <br />
+The above redundancy & security settings will suffice.
+  <br />
+The image (VM's operating system) will be Windows 10 Pro. Vers. 22H2
+  <br />
+VM architecture x64 will suffice.
 </p>
 <br />
 
@@ -109,7 +122,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/d06279b1-c84a-406f-845d-69e430089eff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select size "2 vcpus" (2 virtual CPU's).
+  <br />
+Set up administrator account info for the VM: the username & password.
+  <br />
+Public inbound ports must allow selected ports, and allow RDP 3389 (for remote desktop to the VM).
+  <br />
+Confirm you have the eligible Windows 10/11 license.
 </p>
 <br />
 
@@ -117,6 +136,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/a7c686ac-a25e-4bb9-bae1-d6a8add08603" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+At the bottom click Next:Disks, then click Next:Networking.
+  <br />
+  <br />
+For the 2nd VM, the virtual network must match the 1st VM's.
+  <br />
+The subnet, & public IP will be automatically made.
+  <br />
+For the NIC network security group select "basic".
+  <br />
+Public inbound ports must allow selected ports, and allow RDP 3389 (for remote desktop to the VM).
+  <br />
+Scrolling down, enable accelerated networking & select no load balancing.
+  <br />
+  <br />
+Finally, Create this 2nd VM.
+  <br />
+Note that Azure may take 5 minutes to deploy the VM.
+</p>
+  <br />
+
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -132,3 +177,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
+  <br />
+Finally, Create this 2nd VM.
+  <br />
+Note that Azure may take 5 minutes to deploy the VM.
+</p>
+  <br />
