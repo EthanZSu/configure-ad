@@ -161,20 +161,30 @@ Note that Azure may take 5 minutes to deploy the VM.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/configure-ad/assets/168872181/95c1d4d7-fee9-4c77-a551-26279e46e989" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Search for your DC-1 (domain controller) VM.
+  <br />
+select it, & on the left menu scroll down & select netwrok settings.
+  <br />
+select the blue: dc-#### (primary)/ipconfig1 (primary).
+
 </p>
 <br />
 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/configure-ad/assets/168872181/c0d5058d-14fb-49bb-aaba-8aeb59db3fe6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click the blue ipconfig1.
+  <br />
+On the right menu, set allocation to static (so DC-1's IP address doesn't change & other computers won't try retrieving the IP address from the DHCP server).
+  <br />
+  <br />
+On the bottom, save.
 </p>
 <br />
 
