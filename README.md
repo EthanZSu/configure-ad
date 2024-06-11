@@ -62,7 +62,7 @@ In the top search bar search: virtual machines, then click "create", then "Azure
   <br />
 For the 1st virtual machine: Select a subsciption account, the resource group just made, & the geographic region you want the VM in.
   <br />
-Name this 1st VM.
+Name this 1st VM something like "domain controller" (because it will have the domain controller with the active directory).
   <br />
 The above redundancy & security settings will suffice.
   <br />
