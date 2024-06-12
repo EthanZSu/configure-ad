@@ -106,7 +106,7 @@ In the top search bar search: virtual machines, then in top left click "create",
   <br />
 For this 2nd virtual machine: the subsciption account, resource group, & the geographic region should match the 1st VM's.
   <br />
-Name this 2nd VM.
+Name this 2nd VM (maybe something like "Client-1").
   <br />
 The above redundancy & security settings will suffice.
   <br />
@@ -166,7 +166,7 @@ Note that Azure may take 5 minutes to deploy the VM.
 <p>
 Search for your DC-1 (domain controller) VM.
   <br />
-select it, & on the left menu scroll down & select netwrok settings.
+select it, & on the left menu scroll down & select network settings.
   <br />
 select the blue: dc-#### (primary)/ipconfig1 (primary).
 
@@ -188,6 +188,23 @@ On the bottom, save.
 </p>
 <br />
 
+
+
+<p>
+<img src="https://github.com/EthanZSu/configure-ad/assets/168872181/bc95f65d-38ad-477d-902c-7c1d85f45b4a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In your Windows computer bottom search bar type: Remote Desktop Connection.
+  <br />
+In the top center search bar search: Virtual Machines.
+  <br />
+Select the Client-1 VM.
+  <br />
+Copy the Public IP address on the right side into the Remote Desktop Connection & Connect.
+  <br />
+Enter the administrator account credentials for the VM: the username & password.
+</p>
+<br />
 
 
 <p>
