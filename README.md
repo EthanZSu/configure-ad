@@ -223,7 +223,11 @@ Select "yes".
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/b41ed23c-61e8-4e71-b4e7-cabc3273cee6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Select "No" to all the privacy settings (as none of those features will be needed).
+<br />
+Then accept.
+<br />
+On the right click "yes" to the network pop-up "do you want... your PC to be discoverable by other... devices on this network?"
 </p>
 <br />
 
