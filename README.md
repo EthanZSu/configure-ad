@@ -234,11 +234,20 @@ On the right click "yes" to the network pop-up "do you want... your PC to be dis
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/configure-ad/assets/168872181/222b2fed-54c7-425b-ba6e-4b84ab8ad99e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 If there is any Windows promotional pop-up, exit it.
   <br />
+  <br />
+In the taskbar searchbox: search for cmd (command prompt).
+  <br />
+In Microsoft Azure: Copy DC-1's private IP address &
+  <br />
+Initiate a non-stop ping from your Client-1 VM command prompt to your DC-1 VM.
+  <br />
+You will see the ping fail.
+
 
 </p>
 <br />
