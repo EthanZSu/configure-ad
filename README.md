@@ -194,13 +194,11 @@ On the bottom, save.
 <img src="https://github.com/EthanZSu/configure-ad/assets/168872181/bc95f65d-38ad-477d-902c-7c1d85f45b4a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In your Windows computer bottom search bar type: Remote Desktop Connection.
+In your Windows computer taskbar search box search: Remote Desktop Connection.
   <br />
-In the top center search bar search: Virtual Machines.
+In Microsoft Azure search: Virtual Machines & select Client-1 VM.
   <br />
-Select the Client-1 VM.
-  <br />
-Copy the Public IP address on the right side into the Remote Desktop Connection & Connect.
+Copy Client-1's Public IP address into the Remote Desktop Connection & Connect.
   <br />
 Enter the administrator account credentials for the VM: the username & password.
 </p>
@@ -255,10 +253,17 @@ You will see the ping fail.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/configure-ad/assets/168872181/644b7db1-3bb8-4d31-8974-80eddb7cfd36" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In your Windows computer taskbar search box search: Remote Desktop Connection.
+  <br />
+In Microsoft Azure search: Virtual Machines & select DC-1 VM.
+  <br />
+Copy DC-1's Public IP address into the Remote Desktop Connection & Connect.
+  <br />
+Enter the administrator account credentials for the VM: the username & password.
+</p>
 </p>
 <br />
 
