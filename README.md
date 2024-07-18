@@ -284,7 +284,7 @@ Select "yes".
 <img src="https://github.com/user-attachments/assets/9961efa9-504c-4677-b845-0f560db9246e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+In your Windows computer taskbar search box search: Windows Defender Firewall With Advanced Security.
 </p>
 <br />
 
