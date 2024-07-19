@@ -369,6 +369,8 @@ Add Features.
 </p>
 <p>
 Click "Next" until you reach the "Install" button, and then select the "Install". 
+  <br />
+When the installation is complete, close the: Add Roles and Features Wizard.
 </p>
 <br />
 
