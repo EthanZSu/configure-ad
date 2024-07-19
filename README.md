@@ -319,7 +319,11 @@ Right click both ICMPv4 Protocols, Enable Rule.
 <img src="https://github.com/user-attachments/assets/88162fa8-d0c0-4940-af65-f9f733a905c7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On Client-1's command prompt, you will see the replies from DC-1.
+On Client-1's command prompt, you will see the replies from DC-1. 
+  <br />
+On your keyboard stop the ping by clicking: CTRL + C.
+  <br />
+Close the command prompt. 
 </p>
 <br />
 
