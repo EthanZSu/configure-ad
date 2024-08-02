@@ -604,6 +604,11 @@ Click: check names.
 Select: Domain Admins,
   <br />
 Then select: OK, Apply, OK.
+  <br />
+  <br />
+In the taskbar search: cmd (for command prompt).
+  <br />
+type: logoff, then hit "ENTER".
 </p>
 <br />
 
