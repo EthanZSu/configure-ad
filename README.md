@@ -617,7 +617,6 @@ type: logoff, then hit "ENTER".
 <img src="https://github.com/user-attachments/assets/b27c5a7f-f746-4da1-b124-6ab6bc213c22" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  ....this and next slide......
 On your actual computer, search for remote desktop from your taskbar search box.
   <br />
 Select: Show Options
@@ -642,19 +641,27 @@ Input the password for the domain account and select ok.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/115f5e65-dacf-42a6-9284-0a89b038c4a3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This notification will appear.
+  <br />
+Select "yes".
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/960c3bef-6829-4b20-a822-47d7345519e4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From your taskbar search box, search for cmd (command prompt).
+  <br />
+In the command prompt type: whoami.
+  <br />
+Hit ENTER.
+  <br />
+The result should be: mydomain\jane_admin.
 </p>
 <br />
 
