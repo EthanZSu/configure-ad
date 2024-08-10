@@ -667,10 +667,16 @@ The result should be: mydomain\jane_admin.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3bc465f2-854b-47e1-9584-fb4f8e194ffb" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In your Windows computer taskbar search box search: Remote Desktop Connection.
+  <br />
+In Microsoft Azure search: Virtual Machines & select Client-1 VM.
+  <br />
+Copy Client-1's Public IP address into the Remote Desktop Connection & Connect.
+  <br />
+Enter the administrator account credentials for the VM: the "labuser" username & password.
 </p>
 <br />
 
