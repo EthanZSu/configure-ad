@@ -806,7 +806,64 @@ The DNS server's IP address should be DC-1's private IP address.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/24f175b2-5be3-4f9a-b2c1-38202415b523" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Within the command prompt, ping DC-1's private IP address.
+  <br />
+You should see 4 replies.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/c427ff42-2a55-43bd-97a8-ee08f582dd0e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the taskbar right-click the Windows icon.
+  <br />
+Then select system.
+  <br />
+Scroll down & select: Rename this PC (advanced).
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/799d8e47-62b5-40f2-95b6-c1f85f467bb4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click: Change...
+  <br />
+Select: Domain.
+  <br />
+Input: mydomain.com
+  <br />
+Click OK.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/14efb95a-51ba-4f2a-971f-426b9fe11be9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/91e83af8-7c08-4084-abf3-12115267a182" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/96556f17-5b2c-4239-84cc-da4d0894fc4b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
