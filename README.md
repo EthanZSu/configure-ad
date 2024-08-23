@@ -848,7 +848,7 @@ Click OK.
 <img src="https://github.com/user-attachments/assets/14efb95a-51ba-4f2a-971f-426b9fe11be9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Sign in with an account that has permission to join the domain.
 </p>
 <br />
 
@@ -857,7 +857,11 @@ Click OK.
 <img src="https://github.com/user-attachments/assets/91e83af8-7c08-4084-abf3-12115267a182" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click OK to this notification (which may be behind the other windows).
+  <br />
+Click OK to the notification prompting you to restart the system.
+  <br />
+On System Properties, click: Close.
 </p>
 <br />
 
@@ -866,6 +870,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/user-attachments/assets/96556f17-5b2c-4239-84cc-da4d0894fc4b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the above pop up click: Restart Now.
+  <br />
+Click OK to the pop up informing you the Remote Desktop Session has ended.
 </p>
 <br />
