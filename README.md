@@ -875,3 +875,86 @@ On the above pop up click: Restart Now.
 Click OK to the pop up informing you the Remote Desktop Session has ended.
 </p>
 <br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/7506d841-3e4e-407a-b09e-dced0060cf98" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Login Client-1 with your domain admin account.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/f6d701a2-ba7a-46d3-8823-3db2b82ecca2" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click "yes" to this pop-up.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/fb14f07f-bca1-4cff-8c29-0b9b58ad1225" height="80%" width="80%" alt="Disk Sanitization Steps"</p>
+<p>
+Close any Microsoft/Windows promotional pop-ups.
+  <br />
+Right click the Windows start button in the bottom left.
+  <br />
+Select: System.
+  <br />
+  <br />
+In the right column scroll down & select: Remote desktop.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/cfc908db-ab36-4a0a-8a6a-da5908350f60" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click: Select users that can remotely access this PC.
+  <br />
+Click: Add.
+  <br />
+Input: domain users.
+  <br />
+Click: Check Names.
+  <br />
+Click: "OK" twice. 
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
