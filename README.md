@@ -928,11 +928,48 @@ Click: "OK" twice.
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/37582141-b56e-4d8f-aba8-024891237cc1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Login DC-1 with your domain admin account.
+</p>
+<br />
 
+
+<p>
+<img src="https://github.com/user-attachments/assets/830c298b-5e90-4ee9-9810-e3f54c966db1" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click "yes" to this pop-up.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/d13623ec-d17c-46ad-9ab6-fd7a98eefd33" height="95%" width="95%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Server Manager, select Tools on the right.
   <br />
+Open Active Directory Users & Computers.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/df30a343-8f24-4ebc-b09b-24d6af18c71b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the left: Select mydomain.com.
+  <br />
+Then underneath, open the Users folder.
+  <br />
+Select Domain Users.
+  <br />
+  <br />
+Normally,  multiple users would be added to remote desktop by Group Policy.
+  <br />
+But for this tutorial, users to access Client-1 will be added a diffrent way.
 
 </p>
 <br />
@@ -958,3 +995,15 @@ Click: "OK" twice.
 
 </p>
 <br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
