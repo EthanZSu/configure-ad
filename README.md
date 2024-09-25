@@ -1012,6 +1012,22 @@ Run the script (click the green triangle icon).
 
 
 <p>
+<img src="https://github.com/user-attachments/assets/b8f84a0c-a649-4903-9800-f923d8179fee" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You may minimize the Powershell ISE window.
+  <br />
+  <br />
+In the taskbar searchbar, search: Administrative Tools.
+  <br />
+Select: Active Directory Users and Computers.
+  <br />
+Right click the _EMPLOYEES organizational unit, and refresh.
+</p>
+<br />
+
+
+<p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -1021,3 +1037,46 @@ Run the script (click the green triangle icon).
 </p>
 <br />
 
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
