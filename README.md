@@ -984,7 +984,11 @@ Minimize the Server Manager & Active Directory Users and Computers Windows.
 Close the Domain Users Properties Window.
   <br />
   <br />
-
+In the Windows taskbar search bar, type: Windows Powershell ISE.
+  <br />
+Right click the "Windows Powershell ISE" & then Run as administrator.
+  <br />
+Confirm "yes".
 </p>
 <br />
 
