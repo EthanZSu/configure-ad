@@ -976,10 +976,13 @@ But for this tutorial, users to access Client-1 will be added a diffrent way.
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/fdd44339-b1fd-41ef-8770-4eada6bf698b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Minimize the Server Manager & Active Directory Users and Computers Windows.
+  <br />
+Close the Domain Users Properties Window.
+  <br />
   <br />
 
 </p>
