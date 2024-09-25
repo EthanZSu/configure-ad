@@ -994,12 +994,19 @@ Confirm "yes".
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d1ecca3e-7177-4ce7-9c5d-0df8bed93858" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+In Powershell ISE, on the left, under File: select the New Script icon.
   <br />
-
+  <br />
+Type in the following script 
+  <br />
+(which will generate 100 random accounts, all using Password1,
+  & place all accounts in the EMPLOYEES Organizational unit.)
+  <br />
+  <br />
+Run the script (click the green triangle icon).
 </p>
 <br />
 
