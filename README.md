@@ -1028,32 +1028,38 @@ Right click the _EMPLOYEES organizational unit, and refresh.
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/47807a28-be3c-4c4c-9036-0d62281829c2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Select a name, 
   <br />
-
+right click & copy the display name.
 </p>
 <br />
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/6eb9cdbe-d5d9-4ccb-b07a-c746eeb59596" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Login Client-1 with the previous display name you copied:
   <br />
-
+On Remote Desktop Connection, select show options.
+  <br />
+Paste the display name after: mydomain.com\
+  <br />
+Select Connect.
+  <br />
+Login using Password1
 </p>
 <br />
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/23cf43d2-d3dc-479c-9fe2-2630d756007c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Click "Yes" to this pop-up.
   <br />
 
 </p>
