@@ -1067,6 +1067,77 @@ Click "Yes" to this pop-up.
 
 
 <p>
+<img src="https://github.com/user-attachments/assets/7d89bf0a-13c4-41ee-8a14-c3dbdb238869" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Close any Windows promotional pop-ups.
+  <br />
+  <br />
+In the taskbar search bar, search for cmd (command prompt).
+  <br />
+Type: whoami, click ENTER.
+  <br />
+You should see the username you logged in with.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/eaf9eb28-f43a-452b-b345-b2909019b125" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Close the Command Prompt.
+  <br />
+  <br />
+Open File Explorer on the taskbar.
+  <br />
+Select This PC on the left.
+  <br />
+Select Windows (C:) under Devices and drives.
+  <br />
+Open the Users folder.
+  <br />
+You will see a folder for the account you just signed in with.
+  <br />
+(Every time a new account signs into Client-1, a new folder is made for it.)
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
