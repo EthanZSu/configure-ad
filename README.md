@@ -1105,45 +1105,68 @@ You will see a folder for the account you just signed in with.
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/04e12f62-fbaa-484b-9d6b-4b733130409b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+In DC-1, Close the Properties of the last account name used.
   <br />
+  <br />
+Pick another account to sign in Client-1 with.
+  <br />
+As before, copy the display name.
 
 </p>
 <br />
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a830c71a-7bb8-4ce8-9025-f00262cdab58" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Login Client-1 with the display name you just copied:
   <br />
+On Remote Desktop Connection, select show options.
+  <br />
+Paste the display name after: mydomain.com\
+  <br />
+Select Connect.
+  <br />
+Login the password incorrectly about 10 times
+  <br />
+(which should lock this account from logging in).
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/531a82ed-51c0-4fd1-bdd6-b40e9c12dd84" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Solution #1: In DC-1 unlock the account that failed to login Client-1:
+  <br />
+Select the Account Tab.
+  <br />
+Check the Unlock account box.
+  <br />
+Then click OK.
 
 </p>
 <br />
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/02e36090-be2c-4ed4-857e-703628cabd49" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Solution #2: In DC-1 reset the password of the account that failed to login Client-1:
   <br />
-
-</p>
-<br />
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
+Right click the account name.
   <br />
-
+Reset password, then input a new password.
+  <br />
+Check the Unlock the user's account box.
+  <br />
+Then click OK.
 </p>
 <br />
 
