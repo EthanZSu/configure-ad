@@ -1172,6 +1172,65 @@ Then click OK.
 
 
 <p>
+<img src="https://github.com/user-attachments/assets/1d865000-cb64-4f13-9f31-88ee3f8f7c8a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To disable an account right click the account name.
+  <br />
+Then click: Disable Account.
+  
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/5ed5dfcd-b141-4ad1-b32c-b11c1a35c52f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If the user of the disabled account tried to login into Client-1,
+  <br />
+he'd see this notification.
+
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/d8e49e2c-7f75-4da2-b0ab-a498c59dcae9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To re-enable the account in DC-1, right click the account name.
+  <br />
+Then click: Enable account.
+  <br />
+(Now that account can login to Client-1 again.)
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  <br />
+
+</p>
+<br />
+
+
+<p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
